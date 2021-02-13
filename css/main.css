@@ -1,0 +1,31 @@
+/*Hoja de estilos*/
+#entorno {
+	display: block;
+	margin: 0 auto;
+    background-color: #D0FAFA;
+    margin-bottom: 50px;
+
+}
+
+#fondo {
+	opacity: 0.3;
+}
+
+#titulo {
+    text-align: center;
+    font-family:cursive;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: red;
+}
+
+#recomendacion {
+     text-align: center;
+    font-family:cursive;
+   
+}
+
+#fin {
+    color: red;
+    font-family: cursive;
+}
